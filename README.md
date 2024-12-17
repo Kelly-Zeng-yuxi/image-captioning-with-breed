@@ -22,7 +22,7 @@ Download the Flickr8K Dataset and Stanford Dogs Dataset:
 - Use kagglehub as in image_captioning_with_breed.ipynb
 - or download manually from:
    - Flickr8K: https://www.kaggle.com/datasets/shadabhussain/flickr8k
-   - Stanford Dogs: http://vision.stanford.edu/aditya86/ImageNetDogs/
+   - Stanford Dogs: https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
 
 ## Run the project
 ```bash
