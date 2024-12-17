@@ -3,12 +3,11 @@
 ## Overview
 This project generates image captions that include fine-grained breed-specific details for dog images.
 
-## Requirements
-- Python 3.8+
-- PyTorch
-- torchvision
-- pandas
-- matplotlib
+## Install Dependencies
+pip install -r requirements.txt
+
+## Run the project
+python image_captioning_with_breed.ipynb
 
 ## Setup
 1. Clone the repository:
