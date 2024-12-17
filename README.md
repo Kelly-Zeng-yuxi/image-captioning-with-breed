@@ -26,7 +26,7 @@ Download the Flickr8K Dataset and Stanford Dogs Dataset:
 
 ## Run the project
 ```bash
-python image_captioning_with_breed.ipynb
+python image_captioning_breed.ipynb
 ```
 
 ## Example Results
