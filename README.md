@@ -45,8 +45,8 @@ The performance of our model was evaluated using the following metrics:
 
 | Dataset Subset       | Loss   | Accuracy  | BLEU Score |
 |:-----------------------|:--------|:-----------|:------------|
-| **With Dog Images**   | 0.2168 | 67.07%    | 0.2950     |
-| **Without Dog Images**| 0.9909 | 35.14%    | 0.0789     |
+| **With Dog Images**   | 0.2193 | 66.89%    | 0.2941     |
+| **Without Dog Images**| 0.9993 | 34.87%    | 0.0802     |
 
 Accuracy: Measures the correctness of breed classification and token prediction.
 
