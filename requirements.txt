@@ -1,0 +1,9 @@
+torch==2.5.1 
+torchvision==0.20.0 
+tensorflow==2.17.0 
+pandas==2.1.2 
+matplotlib==3.8.1 
+Pillow==10.1.0 
+kagglehub==0.3.5
+nltk==3.9.0 
+scikit-learn==1.4.0
